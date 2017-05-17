@@ -41,6 +41,7 @@
 - Tehnicki (SolidWorks, Fusion360, AutoCad...)
 - "Umetnicki" (Max, Maya, Rhino...)
 - "Friendly" (SketchUp, TinkerCad...)
+- [TinkerCad klip](https://www.youtube.com/watch?v=MwjWT-EvKSU)
 
 #### Repozitorijumi
 - Thingiverse.com (repo)
@@ -65,6 +66,7 @@
 - visina sloja
 - zidovi
 - supportovi
+- brzina
 
 ### Hendlanje
 - priprema
@@ -73,5 +75,12 @@
 - skidanje modela sa heatbeda
 - ciscenje
 - zamena filamenta
+
+### Dalje obrada
+- smirgle
+- aceton (ABS)
+- akrilne boje
+- bezbojni lak
+- dremel
 
 ## Q&A
